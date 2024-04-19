@@ -1,5 +1,5 @@
 # Daten_Hohlschneiden
-
+Diese Überschrift ist Stuss!
 
 Die in der Datei "Schnittflaechendaten.csv" aufgeführten Header haben folgende Bedeutung:
 	- file_name = Dateibezeichung der ausgewerteten Bilddatei aus dem Ordner "Rohdaten"
