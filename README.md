@@ -2,8 +2,8 @@
 
 
 Die in der Datei "Schnittflaechendaten.csv" aufgeführten Header haben folgende Bedeutung:
-- file_name = Dateibezeichung einer ursprünglich eingelesenen Bilddatei 
-- WS = Bezeichnung des schergeschnittenen Blechwerkstoffs (hier: DC03, DP600, DP800) 
+- file_name = Dateibezeichung der durchgeführten Simulation. Ist für Korrelationsanalyse zu entfernen
+- WS = Bezeichnung des schergeschnittenen Blechwerkstoffs (hier: DC03, DP600, DP800). Ist für Korrelationsanalyse zu entfernen 
 - Ag = Gleichmaßdehnung des Blechwerkstoffs in %
 - A80 = Bruchdechnunh des Blechwerkstoffs in %
 - Rp0,2 = Streckgrenze des Blechwerkstoffs in MPa
