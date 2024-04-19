@@ -1,8 +1,7 @@
 # Daten_Hohlschneiden
 
 
-
-In der Datei "Schnittflaechendaten.csv" aufgeführten Header haben folgende Bedeutung:
+Die in der Datei "Schnittflaechendaten.csv" aufgeführten Header haben folgende Bedeutung:
 	- file_name = Dateibezeichung der ausgewerteten Bilddatei aus dem Ordner "Rohdaten"
 	- WS = Bezeichnung des schergeschnittenen Blechwerkstoffs (hier: DC03, DP600, DP800) 
 	- Ag = Gleichmaßdehnung des Blechwerkstoffs in %
