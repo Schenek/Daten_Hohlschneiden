@@ -1,14 +1,8 @@
 # Daten_Hohlschneiden
 
-Informationen zum Ordner "Rohdaten":
-- Enthält Bilddateien, welche ausgewertete Simulationsergebnisse für das Hohlschneiden mit geschlossener Schnittlinie zeigen
-- Aus den Bildern wurden Kanteneinzugsanteile (KEA), Glattschnittanteile (GSA), Bruchlächenanteile (BFA) und Gratanteile (Grat) ermittelt
-- KEA, GSA, BFA und Grat wurden in einer .csv-Datei mit der Bezeichnung "Schnittflaechendaten.csv" zusammengetragen
-- Diese .csv-Datei ist im Ordner "Ausgewertete Daten und Python Skript" abgelegt 
 
 
-Informationen zum Ordner "Ausgewertete Daten und Python Skript":
-- Enthält die Datei "Schnittflaechendaten.csv".Die in der Datei "Schnittflaechendaten.csv" aufgeführten Header haben folgende Bedeutung:
+In der Datei "Schnittflaechendaten.csv" aufgeführten Header haben folgende Bedeutung:
 	- file_name = Dateibezeichung der ausgewerteten Bilddatei aus dem Ordner "Rohdaten"
 	- WS = Bezeichnung des schergeschnittenen Blechwerkstoffs (hier: DC03, DP600, DP800) 
 	- Ag = Gleichmaßdehnung des Blechwerkstoffs in %
