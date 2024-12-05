@@ -21,7 +21,9 @@ Die in der Datei "Schnittflaechendaten.csv" aufgeführten Header haben folgende 
 
 Das Pythod Skript "Schnittflächendaten_auswerten" zeigt auf, wie die Daten in einem Pandas DataFrame eingelesen werden können 
 Das Python Skript "Schnittflächendaten_auswerten" zeigt weiterhin auf, wie die Daten einer Pearson-Korrelationsanalyse unterzogen werden können
-Das Python Skript "Schnittflächendaten_auswerten" zeigt Datenvorverarbeitungsschritte für das Training maschineller Lernalgorithmen auf. 
+Das Python Skript "Schnittflächendaten_auswerten" zeigt Datenvorverarbeitungsschritte für das Training maschineller Lernalgorithmen auf.
+Beim Schritt der Datenvorverarbeitung kann der gesamte Datensatz durch die in meiner Dissertationsschrift spezifizierten Maxima (Rm_max, s_max, u_max,...) geteilt werden. Data Leakage tritt nicht auf, da es sich hierbei um physikalische Randbedingungen des Hohlschneidens handelt. 
+
 Folgende Python Bibliotheken wurden in das Python Skript importiert:
 - pandas (Version 1.5.2)
 - numpy (Version 1.23.5)
